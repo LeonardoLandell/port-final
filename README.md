@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="public/logo.png" alt="Landell.Studio Logo" width="400"/>
+</p>
 
-## Getting Started
+# Landell.Studio
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Landell.Studio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🕰️ Histórico do Projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Este projeto é a **versão final e consolidada** do antigo **port-dev**.  
+O **port-dev** foi a primeira versão experimental do portfólio, servindo como laboratório de ideias e aprendizado.  
 
-## Learn More
+Agora, sob a identidade **Landell.Studio**, o projeto foi totalmente reestruturado e elevado a um novo patamar:  
+- **Design premium** com estética refinada  
+- **Tecnologia moderna** (Next.js, Tailwind, GSAP, Vercel)  
+- **Narrativa profissional** alinhada à trajetória de Leonardo Landell  
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+O antigo **port-dev** cumpriu seu papel como base inicial.  
+Esta versão final representa a evolução completa, pronta para produção e deploy em plataformas como **Vercel** e **GitHub Pages**.
