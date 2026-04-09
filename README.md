@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.png" alt="Landell.Studio Logo" width="400"/>
+  <img src="public/logo.png" alt="Landell.Studio Logo" width="400"/>
 </p>
 
 # Landell.Studio
