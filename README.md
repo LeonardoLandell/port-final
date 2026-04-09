@@ -1,10 +1,6 @@
 <p align="center">
   <img src="public/logo.png" alt="Landell.Studio Logo" width="400"/>
 </p>
-
-# Landell.Studio
-
-
 # Landell.Studio
 
 
