@@ -1,18 +1,35 @@
 <p align="center">
-  <img src="public/logo.png" alt="Landell.Studio Logo" width="400"/>
+  <img src="/logo.png" alt="Landell.Studio Logo" width="400"/>
 </p>
+
 # Landell.Studio
 
+## ✨ Sobre
+Este projeto é o portfólio oficial de **Leonardo Landell**, criador digital e fundador da **Landell.Studio**.  
+A proposta é apresentar uma landing page premium que une design sofisticado, tecnologia moderna e narrativa profissional.
 
 ## 🕰️ Histórico do Projeto
+Este projeto é a versão final e consolidada do antigo **port-dev**, que serviu como base experimental e de aprendizado.  
+Agora, sob a identidade **Landell.Studio**, foi reestruturado com design premium, tecnologia moderna e narrativa profissional, pronto para produção e deploy em Vercel e GitHub Pages.
 
-Este projeto é a **versão final e consolidada** do antigo **port-dev**.  
-O **port-dev** foi a primeira versão experimental do portfólio, servindo como laboratório de ideias e aprendizado.  
+## 🛠️ Tecnologias
+- **Next.js**  
+- **React**  
+- **Tailwind CSS**  
+- **GSAP**  
+- **Node.js**  
+- Deploy em **Vercel** e suporte a **GitHub Pages**
 
-Agora, sob a identidade **Landell.Studio**, o projeto foi totalmente reestruturado e elevado a um novo patamar:  
-- **Design premium** com estética refinada  
-- **Tecnologia moderna** (Next.js, Tailwind, GSAP, Vercel)  
-- **Narrativa profissional** alinhada à trajetória de Leonardo Landell  
+## 🎓 Formação
+- **FACSP**  
+- Curso de **HTML, CSS e JavaScript** pela Fundação Bradesco  
 
-O antigo **port-dev** cumpriu seu papel como base inicial.  
-Esta versão final representa a evolução completa, pronta para produção e deploy em plataformas como **Vercel** e **GitHub Pages**.
+## 📬 Contato
+- **LinkedIn**: [Leonardo Landell](https://www.linkedin.com/in/leonardolandell)  
+- **GitHub**: [LeonardoLandell](https://github.com/LeonardoLandell)  
+- **Portfólio Online**: [landell-studio.vercel.app](https://landell-studio.vercel.app)  
+- **WhatsApp**: +55 (11) XXXXX-XXXX  
+
+## 📄 Licença
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar, desde que mantenha os créditos a **Leonardo Landell** e à **Landell.Studio**.
